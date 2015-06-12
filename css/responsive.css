@@ -1,0 +1,32 @@
+/*custom responsive style*/
+@media only screen and (min-width:992px){
+  .customer_area li {
+  
+  width: 140px;
+}
+  
+}
+
+/*tablets layout: 768*/
+@media only screen and (min-width:768px) and (max-width:991px){
+  nav ul li a{padding: 10px;}
+.logo h2 {font-size: 1.3em;}
+.customer_area li {   width: 112px;}
+.footer_center p .fa{display: none;}
+}
+/* mobile layout: 320px*/
+@media only screen and (max-width: 480px){
+   .slicknav_menu {display:block;background: #000;  }
+  nav{display: none;}
+  .customer_area{display: none;}
+  .footer_center p .fa{display: none;}
+}
+/* wide mobile layout: 480px*/
+@media only screen and (min-width: 480px) and (max-width: 767px){
+  nav{float: left;}
+  nav ul li a{padding: 0px 6px;}
+  .customer_area{display: none;}
+  
+  
+
+}

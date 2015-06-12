@@ -1,0 +1,8 @@
+copyright bg : 0099cc
+submit: 0574A6,1C9FDA, 
+submit bg: FFFFFF,FFFFFF
+above footer bg:0D89C1
+icon:9ED0E6,9ED0E6
+footer: FFFFFF
+team bg:F8F7F7
+team member bg:FFFFFF
